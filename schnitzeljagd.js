@@ -21,24 +21,24 @@
             title: "Station 2: Große Veränderungen",
             location: "Pfad",
             difficulty: "Schwer",
-            riddle: "In dem Raum, wo die Melodien erklingen, findest du den nächsten Hinweis. Schau in das Notenbuch auf dem Klavier, das Mamas Lieblingsstück enthält.",
-            solution: "Auf Seite 23 des Notenbuchs ist ein Hinweis versteckt, der zur nächsten Station führt.",
+            riddle: "tba",
+            solution: "tba",
             color: "blue"
         },
         4: {
             title: "Station 3: Neues Leben",
             location: "Wald",
             difficulty: "Mittel",
-            riddle: "Draußen, wo die Blumen blühen, die Mama so liebt, findest du den nächsten Hinweis. Schau unter dem Stein mit der Aufschrift 'Familie'.",
-            solution: "Unter dem Stein liegt eine kleine Schachtel mit einem Foto und dem nächsten Hinweis.",
+            riddle: "tba",
+            solution: "tba",
             color: "green"
         },
         5: {
             title: "Station 4: ?",
-            location: "Bastelzimmer",
+            location: "Wald",
             difficulty: "Schwer",
-            riddle: "Wo Mama ihre kreativen Ideen umsetzt, findest du den nächsten Hinweis. Schau in die Schublade mit den Buntstiften, die nach Farben sortiert sind.",
-            solution: "Im roten Stiftehalter steckt ein zusammengefalteter Zettel mit dem nächsten Hinweis.",
+            riddle: "tba",
+            solution: "tba",
             color: "yellow"
         },
         6: {
