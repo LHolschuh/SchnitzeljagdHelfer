@@ -92,18 +92,7 @@
                         </button>
                     </div>
                 </div>
-                 <!-- Map Section -->
-                    <div class="mb-10">
-                        <h2 class="text-2xl font-semibold text-gray-800 mb-4 text-center">Dein nächster Halt</h2>
 
-                        <div class="mt-4 text-center">
-                            <a href="${station.location}" target="_blank"
-                               class="inline-flex items-center text-pink-600 hover:text-pink-800">
-                                <i class="fas fa-map-marker-alt mr-2"></i> In Google Maps öffnen
-                            </a>
-                        </div>
-                    </div>
-            </div>
         `;
 
         // Switch views
