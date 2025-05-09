@@ -3,7 +3,7 @@
     const stations = {
         1: {
             title: "Station 0: Die ersten Jahre",
-            location: "Zuhause",
+            location: "https://maps.app.goo.gl/rEcL2qJJPPsbs9Gx8",
             difficulty: "Einfach",
             riddle: "Vier Textausschnitte von Oma und Opa müssen in die richtige chronologische Reihenfolge gebracht werden",
             solution: "In der richtigen Reihenfolge ergeben die Buchstaben auf der Rückseite das erste Lösungswort: 'Geburt'. Das Lösungswort müsst ihr euch merken.",
@@ -11,7 +11,7 @@
         },
         2: {
             title: "Station 1: In die Geschichte eingegangen",
-            location: "Autobahnauffahrt",
+            location: "https://maps.app.goo.gl/fbrFzFh8fkMJZ2Rd6",
             difficulty: "Einfach",
             riddle: "Dieses Rätsel sollte Mama problemlos lösen können. Es gibt ein Gedicht, einen FDJ-Ausweis und eine Frage mit drei Antwortmöglichkeiten.",
             solution: "Die richtige Antwort ist c, die uns zum Lösungswort 'Osten' bringt. Das Wort nicht vergessen! ;)",
@@ -19,7 +19,7 @@
         },
         3: {
             title: "Station 2: Große Veränderungen",
-            location: "Pfad",
+            location: "https://maps.app.goo.gl/c6LUeSxBeh1YvBkt7",
             difficulty: "Schwer",
             riddle: "tba",
             solution: "tba",
@@ -27,7 +27,7 @@
         },
         4: {
             title: "Station 3: Neues Leben",
-            location: "Wald",
+            location: "https://maps.app.goo.gl/U88fTKUWJiZX5sjGA",
             difficulty: "Mittel",
             riddle: "tba",
             solution: "tba",
@@ -35,7 +35,7 @@
         },
         5: {
             title: "Station 4: ?",
-            location: "Wald",
+            location: "https://maps.app.goo.gl/v99AvW5eibxxmeFQ6",
             difficulty: "Schwer",
             riddle: "tba",
             solution: "tba",
@@ -43,7 +43,7 @@
         },
         6: {
             title: "Station 5: Eine Reise",
-            location: "Garage",
+            location: "https://maps.app.goo.gl/qYQdCFBDnztfWtZr5",
             difficulty: "Einfach",
             riddle: "Zu Mamas 50. Geburtstag waren wir in London. Deshalb gibt es hier ein Puzzle aus Bildern aus dem Urlaub.",
             solution: "Wenn das Bild richtig zusammengeklebt wurde, findet ihr auf der Rückseite ein Kreuzworträtsel. Hier müssen alle Lösungswörter von den vorherigen Stationen eingetragen werden. Daraus ergibt sich dann ein neues Lösungswort ('Mutti'). Ihr findet hier auch einen QR-Code, den muss Mama scannen. Sie landet auf einer Website, auf die sie nur mit dem Lösungswort kommt. Dann findet ihr dort den nächsten Standort.",
@@ -70,7 +70,10 @@
                 <div class="bg-${station.color}-500 text-white p-4">
                     <h2 class="text-2xl font-bold">${station.title}</h2>
                     <div class="mt-2 flex justify-between items-center">
-                        <span class="text-sm font-medium"><i class="fas fa-map-marker-alt mr-1"></i> ${station.location}</span>
+                        <span class="text-sm font-medium"><i class="fas fa-map-marker-alt mr-1"></i> <a href="${station.location}" target="_blank"
+                                                                                                                                    class="inline-flex items-center hover:text-pink-800">
+                                                                                                                               In Google Maps öffnen
+                                                                                                                                 </a></span>
                         <span class="px-3 py-1 bg-${station.color}-100 text-${station.color}-800 rounded-full text-sm">${station.difficulty}</span>
                     </div>
                 </div>
@@ -94,7 +97,7 @@
                         <h2 class="text-2xl font-semibold text-gray-800 mb-4 text-center">Dein nächster Halt</h2>
 
                         <div class="mt-4 text-center">
-                            <a href="https://maps.app.goo.gl/DswBjntvoxgHs6HP8" target="_blank"
+                            <a href="${station.location}" target="_blank"
                                class="inline-flex items-center text-pink-600 hover:text-pink-800">
                                 <i class="fas fa-map-marker-alt mr-2"></i> In Google Maps öffnen
                             </a>
