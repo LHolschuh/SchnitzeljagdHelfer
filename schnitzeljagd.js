@@ -21,8 +21,8 @@
             title: "Station 2: Große Veränderungen",
             location: "https://maps.app.goo.gl/c6LUeSxBeh1YvBkt7",
             difficulty: "Schwer",
-            riddle: "tba",
-            solution: "tba",
+            riddle: "Ein Bilderrätsel mit versteckten Buchstaben. Jeder Reim führt zu einem Bildausschnitt, in dem ein Buchstabe versteckt ist. Aus den richtigen gefunden Buchstaben ergibt sich das Lösungswort",
+            solution: "Der Kirchturm zeigt ein M. Mamas Auto zu dieser Zeit war rot, versteckt ist der Buchstabe A. Unter dem Hammer mit dem die Berliner Mauer zerschlagen wird, sieht man den Buchstaben U. Gorbatschow zeigt auf seiner Hand den Buchstaben E. Und zuletzt trägt die Krankenschwester den Buchstaben R. Das Lösungswort lautet Mauer.",
             color: "blue"
         },
         4: {
