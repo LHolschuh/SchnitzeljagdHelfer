@@ -72,7 +72,7 @@
                     <div class="mt-2 flex justify-between items-center">
                         <span class="text-sm font-medium"><i class="fas fa-map-marker-alt mr-1"></i> <a href="${station.location}" target="_blank"
                                                                                                                                     class="inline-flex items-center hover:text-pink-800">
-                                                                                                                               In Google Maps öffnen
+                                                                                                                               Hier geht´s zur nächsten Station
                                                                                                                                  </a></span>
                         <span class="px-3 py-1 bg-${station.color}-100 text-${station.color}-800 rounded-full text-sm">${station.difficulty}</span>
                     </div>
