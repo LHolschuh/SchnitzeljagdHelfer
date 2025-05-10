@@ -6,7 +6,7 @@
             location: "https://maps.app.goo.gl/rEcL2qJJPPsbs9Gx8",
             difficulty: "Einfach",
             riddle: "Vier Textausschnitte von Oma und Opa müssen in die richtige chronologische Reihenfolge gebracht werden",
-            solution: "In der richtigen Reihenfolge ergeben die Buchstaben auf der Rückseite das erste Lösungswort: 'Geburt'. Das Lösungswort müsst ihr euch merken.",
+            solution: "In der richtigen Reihenfolge ergeben die Buchstaben auf der Rückseite das erste Lösungswort: 'Geburt'. <br> Das erste Textausschnitt ist von 1965 und hat auf der Rückseite ein G. <br> Der nächste ist von 1969 und versteckt den Buchstaben E. <br> Als nächstes kommt ein Text zum Jahr 1972. Auf der Rückseite steht ´BUR´. <br> Zuletzt das T hinter dem Text zu 1974. <br> Das Lösungswort müsst ihr euch merken.",
             color: "pink"
         },
         2: {
@@ -21,8 +21,8 @@
             title: "Station 2: Große Veränderungen",
             location: "https://maps.app.goo.gl/c6LUeSxBeh1YvBkt7",
             difficulty: "Schwer",
-            riddle: "Ein Bilderrätsel mit versteckten Buchstaben. Jeder Reim führt zu einem Bildausschnitt, in dem ein Buchstabe versteckt ist. Aus den richtigen gefunden Buchstaben ergibt sich das Lösungswort",
-            solution: "Der Kirchturm zeigt ein M. Mamas Auto zu dieser Zeit war rot, versteckt ist der Buchstabe A. Unter dem Hammer mit dem die Berliner Mauer zerschlagen wird, sieht man den Buchstaben U. Gorbatschow zeigt auf seiner Hand den Buchstaben E. Und zuletzt trägt die Krankenschwester den Buchstaben R. Das Lösungswort lautet Mauer.",
+            riddle: "Ein Bilderrätsel mit versteckten Buchstaben. Jeder Reim führt zu einem Bildausschnitt, in dem ein Buchstabe versteckt ist. Aus den richtigen gefundenen Buchstaben ergibt sich das Lösungswort",
+            solution: "Der Kirchturm zeigt ein M. <br> Mamas Auto zu dieser Zeit war rot, versteckt ist der Buchstabe A. <br> Unter dem Hammer mit dem die Berliner Mauer zerschlagen wird, sieht man den Buchstaben U. <br> Gorbatschow zeigt auf seiner Hand den Buchstaben E. <br> Und zuletzt trägt die Krankenschwester den Buchstaben R. <br> Das Lösungswort lautet Mauer.",
             color: "blue"
         },
         4: {
@@ -30,7 +30,7 @@
             location: "https://maps.app.goo.gl/U88fTKUWJiZX5sjGA",
             difficulty: "Mittel",
             riddle: "Ein Lied im Kopf, Ein Code gesucht. Vier Ziffern soll er haben, eine davon ist gerade",
-            solution: "1. Rätsel: ´...und drei macht neune´, also die 9 | 2. Rätsel: ´drei mal drei macht sechs´ - ganz klar, also die 3 | 3. Rätsel: Die Unendlichkeit endet nie, also eine umgekippte 8. | 4. Rätsel: Der letzte wird bekanntlich der erste sein, was uns zur Zahl 1 bringt. | Es ergibt sich der Zahlencode 9381. Daraus ergibt sich das Lösungswort ´Team´.",
+            solution: "1. Rätsel: ´...und drei macht neune´, also die 9 <br> 2. Rätsel: ´drei mal drei macht sechs´ - ganz klar, also die 3 <br> 3. Rätsel: Die Unendlichkeit endet nie, also eine umgekippte 8. <br> 4. Rätsel: Der letzte wird bekanntlich der erste sein, was uns zur Zahl 1 bringt. <br> Es ergibt sich der Zahlencode 9381. Daraus ergibt sich das Lösungswort ´Team´.",
             color: "green"
         },
         5: {
@@ -38,7 +38,7 @@
             location: "https://maps.app.goo.gl/v99AvW5eibxxmeFQ6",
             difficulty: "Einfach",
             riddle: "Bringe die vier Urlaubsfotos in die chronologisch richtige Reihenfolge und nenne zu jedem Bild den Ort, an dem wir waren. Hast du das geschafft, schau auf die Rückseiten der Bilder. Dort findest du den Schlüssel zum Weiterkommen.",
-            solution: "1. Bild: Thüringer Wald, 2005 | Mit Oma und Opa auf der Bank. || 2. Bild: Neukirchen Österreich, 2008 | Mama mit uns vier || 3. Bild: Großglockner, 2012 | Im Hintergrund der Gletscher || 4. Bild: Bretagne, 2013 | Mit dem Meer im Hintergrund. || Das Lösungswort lautet `Familie´.",
+            solution: "1. Bild: Thüringer Wald, 2005 | Mit Oma und Opa auf der Bank. <br> 2. Bild: Neukirchen Österreich, 2008 | Mama mit uns vier <br> 3. Bild: Großglockner, 2012 | Im Hintergrund der Gletscher <br> 4. Bild: Bretagne, 2013 | Mit dem Meer im Hintergrund. <br> Das Lösungswort lautet `Familie´.",
             color: "yellow"
         },
         6: {
