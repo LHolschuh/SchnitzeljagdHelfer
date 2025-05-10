@@ -26,19 +26,19 @@
             color: "blue"
         },
         4: {
-            title: "Station 3: Neues Leben",
+            title: "Station 3: Ein Lied im Kopf",
             location: "https://maps.app.goo.gl/U88fTKUWJiZX5sjGA",
             difficulty: "Mittel",
-            riddle: "tba",
-            solution: "tba",
+            riddle: "Ein Lied im Kopf, Ein Code gesucht. Vier Ziffern soll er haben, eine davon ist gerade",
+            solution: "1. Rätsel: ´...und drei macht neune´, also die 9 | 2. Rätsel: ´drei mal drei macht sechs´ - ganz klar, also die 3 | 3. Rätsel: Die Unendlichkeit endet nie, also eine umgekippte 8. | 4. Rätsel: Der letzte wird bekanntlich der erste sein, was uns zur Zahl 1 bringt. | Es ergibt sich der Zahlencode 9381. Daraus ergibt sich das Lösungswort ´Team´.",
             color: "green"
         },
         5: {
-            title: "Station 4: ?",
+            title: "Station 4: Reisen",
             location: "https://maps.app.goo.gl/v99AvW5eibxxmeFQ6",
-            difficulty: "Schwer",
-            riddle: "tba",
-            solution: "tba",
+            difficulty: "Einfach",
+            riddle: "Bringe die vier Urlaubsfotos in die chronologisch richtige Reihenfolge und nenne zu jedem Bild den Ort, an dem wir waren. Hast du das geschafft, schau auf die Rückseiten der Bilder. Dort findest du den Schlüssel zum Weiterkommen.",
+            solution: "1. Bild: Thüringer Wald, 2005 | Mit Oma und Opa auf der Bank. || 2. Bild: Neukirchen Österreich, 2008 | Mama mit uns vier || 3. Bild: Großglockner, 2012 | Im Hintergrund der Gletscher || 4. Bild: Bretagne, 2013 | Mit dem Meer im HIntergrund. || Das Lösungswort lautet `Familie´."
             color: "yellow"
         },
         6: {
