@@ -21,15 +21,16 @@
             title: "Station 2: Große Veränderungen",
             location: "https://maps.app.goo.gl/c6LUeSxBeh1YvBkt7",
             difficulty: "Schwer",
-            riddle: "Ein Bilderrätsel mit versteckten Buchstaben. Jeder Reim führt zu einem Bildausschnitt, in dem ein Buchstabe versteckt ist. Aus den richtigen gefundenen Buchstaben ergibt sich das Lösungswort",
+            riddle: "Ein Bilderrätsel mit versteckten Buchstaben. Das Bild könnt ihr auch nochmal auf der Startseite sehen. <br> Jeder Reim führt zu einem Bildausschnitt, in dem ein Buchstabe versteckt ist. Aus den richtigen gefundenen Buchstaben ergibt sich das Lösungswort",
             solution: "Der Kirchturm zeigt ein M. <br> Mamas Auto zu dieser Zeit war rot, versteckt ist der Buchstabe A. <br> Unter dem Hammer mit dem die Berliner Mauer zerschlagen wird, sieht man den Buchstaben U. <br> Gorbatschow zeigt auf seiner Hand den Buchstaben E. <br> Und zuletzt trägt die Krankenschwester den Buchstaben R. <br> Das Lösungswort lautet Mauer.",
-            color: "blue"
+            color: "blue",
+
         },
         4: {
             title: "Station 3: Ein Lied im Kopf",
             location: "https://maps.app.goo.gl/U88fTKUWJiZX5sjGA",
             difficulty: "Mittel",
-            riddle: "Ein Lied im Kopf, Ein Code gesucht. Vier Ziffern soll er haben, eine davon ist gerade",
+            riddle: "Ein Lied im Kopf, <br>Ein Code gesucht. <br>Vier Ziffern soll er haben, eine davon ist gerade",
             solution: "1. Rätsel: ´...und drei macht neune´, also die 9 <br> 2. Rätsel: ´drei mal drei macht sechs´ - ganz klar, also die 3 <br> 3. Rätsel: Die Unendlichkeit endet nie, also eine umgekippte 8. <br> 4. Rätsel: Der letzte wird bekanntlich der erste sein, was uns zur Zahl 1 bringt. <br> Es ergibt sich der Zahlencode 9381. Daraus ergibt sich das Lösungswort ´Team´.",
             color: "green"
         },
@@ -86,6 +87,7 @@
                         <h3 class="text-xl font-bold text-${station.color}-700 mb-3"><i class="fas fa-lightbulb mr-2"></i> Die Lösung</h3>
                         <p class="text-gray-700 text-lg">${station.solution}</p>
                     </div>
+
                     <div class="mt-8 text-center">
                         <button onclick="backToHome()" class="px-6 py-3 bg-${station.color}-500 hover:bg-${station.color}-600 text-white rounded-lg font-medium transition">
                             <i class="fas fa-arrow-left mr-2"></i> Zurück zur Übersicht
@@ -94,6 +96,7 @@
                 </div>
 
         `;
+
 
         // Switch views
         document.getElementById('homepage').classList.add('hidden');
