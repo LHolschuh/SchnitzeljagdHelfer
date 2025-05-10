@@ -38,7 +38,7 @@
             location: "https://maps.app.goo.gl/v99AvW5eibxxmeFQ6",
             difficulty: "Einfach",
             riddle: "Bringe die vier Urlaubsfotos in die chronologisch richtige Reihenfolge und nenne zu jedem Bild den Ort, an dem wir waren. Hast du das geschafft, schau auf die Rückseiten der Bilder. Dort findest du den Schlüssel zum Weiterkommen.",
-            solution: "1. Bild: Thüringer Wald, 2005 | Mit Oma und Opa auf der Bank. || 2. Bild: Neukirchen Österreich, 2008 | Mama mit uns vier || 3. Bild: Großglockner, 2012 | Im Hintergrund der Gletscher || 4. Bild: Bretagne, 2013 | Mit dem Meer im HIntergrund. || Das Lösungswort lautet `Familie´."
+            solution: "1. Bild: Thüringer Wald, 2005 | Mit Oma und Opa auf der Bank. || 2. Bild: Neukirchen Österreich, 2008 | Mama mit uns vier || 3. Bild: Großglockner, 2012 | Im Hintergrund der Gletscher || 4. Bild: Bretagne, 2013 | Mit dem Meer im HIntergrund. || Das Lösungswort lautet `Familie´.",
             color: "yellow"
         },
         6: {
